@@ -4,7 +4,6 @@
     gap: 10px;
     margin: 10px auto;
 }
-
 .friendsItem {
     list-style: none;
     padding: 10px;
@@ -17,12 +16,10 @@
     font-weight: 500;
     gap: 4px;
 }
-
 .green {
     color: green;
     font-size: 12px;
 }
-
 .red {
     color: red;
     font-size: 12px;
