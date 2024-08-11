@@ -1,5 +1,3 @@
-import clsx from "clsx";
-import s from "./TransactionHistory.module.css";
 import TransactionHistoryItem from "./TransactionHistoryItem";
 
 const TransactionHistory = ({ items }) => {
